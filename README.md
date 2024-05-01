@@ -1,5 +1,5 @@
 # dog-paddle
-An opinionated beginner guide to getting started with Python
+An opinionated beginner's guide to getting started with Python
 
 ## Getting Python using Rye
 
