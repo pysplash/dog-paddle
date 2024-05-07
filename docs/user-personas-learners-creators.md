@@ -1,8 +1,6 @@
-# User personas and scenarios
+# User personas - Learners and Creators
 
-## Fundamental Personas for learning and productivity 
-
-No primary need to create a package
+Users want to learn Python and create applications for personal use.
 
 ### Abby: New to Python and New to Programming
 
@@ -36,12 +34,13 @@ No primary need to create a package
 
 ---
 
-## Packaging 101
+# User personas - Library creators and Code Sharers
 
 User personas need to share a package with team members or PyPI/conda forge
 
-### Erin: Create a new project that you want to share
+Packaging 101 users to advanced library maintainers
 
+### Erin: Create a new project that you want to share
 
 
 ### Francis: Share an existing project on PyPI or conda forge
