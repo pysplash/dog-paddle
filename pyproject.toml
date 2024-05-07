@@ -1,0 +1,18 @@
+[project]
+name = "dog-paddle"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "Carol Willing", email = "carolcode@willingconsulting.com" }
+]
+dependencies = [
+    "mkdocs>=1.6.0",
+    "mkdocs-material>=9.5.21",
+]
+readme = "README.md"
+requires-python = ">= 3.12"
+
+[tool.rye]
+managed = true
+virtual = true
+dev-dependencies = []
