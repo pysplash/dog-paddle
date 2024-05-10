@@ -1,4 +1,4 @@
-# User personas - Learners and Creators
+# Consumers: Creators, Makers, and Learners
 
 Users want to learn Python and create applications for personal use.
 

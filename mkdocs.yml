@@ -2,8 +2,8 @@ site_name: My Docs
 theme: material
 nav:
   - Home: index.md
-  - Personas for Learners and Creators: user-personas-learners-creators.md
-  - Personas for Library Creators and Code Sharers: user-personas-packaging.md
+  - User stories - consumers: users-consumers.md
+  - User stories - producers: users-producers.md
   - Challenges today: challenges-today.md
   - Unique opportunity: unique-opportunity.md
   - rye: rye-notes.md
