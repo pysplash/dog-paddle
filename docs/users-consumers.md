@@ -2,6 +2,15 @@
 
 Users want to learn Python and create applications for personal use.
 
+## Start simple and grow
+
+1. Abby: `install python`
+2. Betty: `install python and add a favorite tool`
+3. Chris: `create new project with python and consume some packages`
+4. Donna: `use an existing project and modify it for my needs` 
+
+## User Stories by Increasing Needs
+
 ### Abby: New to Python and New to Programming
 
 - Need to install Python
