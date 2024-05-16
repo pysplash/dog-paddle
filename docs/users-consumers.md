@@ -2,6 +2,10 @@
 
 Users want to learn Python and create applications for personal use.
 
+## Basics
+
+![Basics](images/python-basics.svg)
+
 ## Start simple and grow
 
 1. Abby: `install python`
