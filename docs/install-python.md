@@ -12,3 +12,12 @@
 - pyenv
 - conda/mamba
 - rye and pixi
+
+## Container options
+
+This document is focusing on installing on a personal system.
+
+## Web-based options
+
+- pyodide
+- pyscript
